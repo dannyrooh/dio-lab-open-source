@@ -11,10 +11,7 @@
 Desenvolvedor/Analista de sistemas com sólidos conhecimentos e experiência de desenvolvimento de software. Habilidade em banco de dados Sql (PosgresSQL, SqlServer, Oracle, MySql) e noSql (MongoDB, Redis), atuando como Desenvolvedor BackEnd utilizando Node e Java, e desenvolvimento Desktop com Delphi.
 Vivência em ambiente de ERP, CRM com sólidos conhecimentos em regras de negócios bancárias, financeiras, contábeis, comercial, suprimentos, industrial e workflow.
 Conhecimento em metodologia ágeis, design pattern como Solid, Clean Archicteture e Arquitetura Hexagonal.
-Atualmente com foco em desenvolvimento BackEnd, API restFull, microservicos, AMS Lambad, e message brokers como Kafka, Amazon SQS/SNS, TDD/BDD, devops com kubernet, docker, git, jenkis, sonar e veracode.
-
-Convido a todos para ler meu perfil e conhecer mais sobre minhas
-realizações profissionais.
+Atualmente com foco em desenvolvimento BackEnd, API restFull, microservicos, AWS Lambad, e message brokers como Kafka, Amazon SQS/SNS, TDD/BDD, devops com kubernet, docker, git, jenkis, sonar e veracode.
 
 ## Habilidades
 
